@@ -4,3 +4,6 @@ julian
 aprobar 
 
 porque la carpeta ahora si tiene archvios :v
+
+
+es importante para no generar un conflicto 
